@@ -1,2 +1,5 @@
 # hello-world
-Hello world tutorial
+
+Hello, world!
+
+This is the https://guides.github.com/activities/hello-world/ tutorial.
